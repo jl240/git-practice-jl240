@@ -1,0 +1,12 @@
+    1  git status
+    2  git config
+    3  git --version
+    4  git config --list
+    5  git config --global user.name "JohnnyLam"
+    6  git config --global user.email "johnnylamxyz@gmail.com"
+    7  git config --global core.editor "code --wait"
+    8  git config --global init.defaultBranch main
+    9  git config --list
+   34  cd gitPractice
+   35  git status
+   36  history | grep git > history.txt
